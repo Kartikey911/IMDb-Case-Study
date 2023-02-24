@@ -1,0 +1,11 @@
+Genres,Sum of num_voted_users
+Action|Adventure|Sci-Fi,15729711
+Drama,12349698
+Comedy,11202428
+Comedy|Drama|Romance,10456879
+Crime|Drama,10201806
+Comedy|Romance,9940146
+Drama|Romance,9791571
+Crime|Drama|Thriller,9580903
+Action|Adventure|Thriller,7884237
+Comedy|Drama,7717887
